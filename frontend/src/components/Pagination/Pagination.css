@@ -1,0 +1,13 @@
+.paging{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(160, 160, 160);
+}
+
+.paging:disabled{
+    background-color: rgb(244, 244, 244);
+    opacity: 50%;
+    display: none;
+}

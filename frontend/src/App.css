@@ -1,0 +1,75 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(147, 147, 147);
+}
+
+a:hover {
+  color: rgb(83, 83, 83);
+  text-decoration: none;
+}
+
+.logo {
+  color: #5CB85C;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 1.5rem !important;
+  font-weight: bold;
+}
+
+.nav-button{
+  color: #ccc;
+}
+
+.SigIn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.signInWord, .needAnAcc{
+  text-align: center;
+}
+
+.signInWord{
+  font-size: 40px;
+}
+
+.needAnAcc{
+  color: #5CB85C;
+}
+
+.btn-primary{
+  color: #fff;
+  background-color: #5CB85C;
+  border-color: #5CB85C;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #449d44;
+  border-color: #419641;
+}
+
+.signinsignup{
+  width: 50% !important;  
+  margin: 0 auto;
+}
+
+.invalid {
+  border-color: #f33a58;
+}
+.form-message {
+  color: #f33a58;
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  padding: 4px 0 0;
+}
